@@ -1,5 +1,7 @@
+'use strict'
+
 // One line
-alert('Hello wor ld');
+alert('Hello world');
 /*
 
 mutiplr line
