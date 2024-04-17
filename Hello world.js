@@ -1,7 +1,12 @@
 'use strict'
 
 // One line
-alert('Hello world');
+
+let message;
+
+message='Hello world';
+
+alert(message);
 /*
 
 mutiplr line
