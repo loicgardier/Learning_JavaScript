@@ -1,16 +1,22 @@
 'use strict'
 
+//change hello world.js
+
+
 // One line
 
-let message;
+let age;
 
-message='Hello world';
+age = prompt('What is your age',0);
 
-alert(message);
-
-let result = prompt('test',100);
-
-result = confirm('are you the boss of this gym?');
+if( age < 18)
+{
+    alert('you are a minor')
+}
+else
+{
+    alert('you are major')
+}
 /*
 
 mutiplr line
